@@ -1,7 +1,7 @@
 import requests
 
 # Your YouTube Data API key
-api_key = 'AIzaSyDE7cnRgBlTJkgoDqjrnDRUCAsc3VAOA2o'
+api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # Base URL for YouTube Data API v3
 base_url = 'https://www.googleapis.com/youtube/v3'
