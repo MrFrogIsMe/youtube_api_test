@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 
 # 你的 YouTube Data API 金鑰
-api_key = 'AIzaSyCJMsYLh--857F_iGJlXsRAXeaF1WWnAFs'
+api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # 建立 YouTube API 客戶端
 youtube = build('youtube', 'v3', developerKey=api_key)
